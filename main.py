@@ -1,6 +1,7 @@
 import batiment
 import infras
 import pandas as pd
+ #projet 
 
 df = pd.read_csv('data/reseau_en_arbre.csv').drop_duplicates()
 

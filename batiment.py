@@ -1,3 +1,4 @@
+#Projet
 class Batiment:
     def __init__(self, id_batiment, liste_infras):
         self.id_batiment = id_batiment
